@@ -17,3 +17,13 @@ bin
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.*~
+.project
+0-debuglogin/
+1-initiallogin.feature
+CREDIT_SALE_SIGNATURE.txt
+calabash_output_text_files/
+example_console_output_text/ 
+steps/
+
